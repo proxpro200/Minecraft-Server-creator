@@ -1,0 +1,2 @@
+python MCserverCREATE.py
+cls
